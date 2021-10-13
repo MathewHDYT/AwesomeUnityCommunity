@@ -817,7 +817,6 @@ An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scene
 * [Unity3D-ExecutionOrderAttribute](https://github.com/Thundernerd/Unity3D-ExecutionOrderAttribute "") - An attribute that sets a script's execution order.
 * [Unity Built In Attributes](https://github.com/teebarjunk/Unity-Built-In-Attributes "") - A list of built in Unity Attributes.
 * [SerializedParameter_Unity](https://github.com/tsubaki/SerializedParameter_Unity) - Persist data between play mode sessions attribute.
-* [com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes) - Attribute Extensions for Unity.
 * [UnityGetComponentAutoInjector](https://github.com/jinnin0105/UnityGetComponentAutoInjector) - Unity GetComponent Auto Injector.
 * [UnityNonNull](https://github.com/ulrikdamm/UnityNonNull) - [NonNull] attribute to fields and classes in Unity.
 * [UnityCompactFieldAttribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) - Lets each property label have their own width, to prevent the labels from getting cut off.
