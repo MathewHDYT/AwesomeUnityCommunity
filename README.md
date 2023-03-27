@@ -353,6 +353,7 @@ Official resource: ![Official](UnityResource16x16.png)
 * [KlakLasp](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
 * [AudioRecorder](https://github.com/alternator/AudioRecorder) - Audio recorder component for Unity.
 * [UnityAbletonLink](https://github.com/comoc/UnityAbletonLink) - An Ableton Link plugin for Unity. (#PLUGINS)
+* [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 
 ## :runner: Animation <a name="animation"></a>
 
